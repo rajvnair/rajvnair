@@ -1,7 +1,7 @@
 # Hi there, I'm Raj
 
 
-I'm a data science graduate from RMIT University based in Melbourne with experience in machine learning.
+I'm a data science graduate from RMIT University based in Sydney with experience in machine learning, currently working with Servian as an Associate Consultant.
 
 - 🔭 Check out my Tableau Interactive [Resume][tableau]!
 - 🌱 I’m currently learning everything related to data 🤣
